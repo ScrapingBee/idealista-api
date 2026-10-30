@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="idealista-api" />
+    <img src="https://github.com/user-attachments/assets/39d279c7-c64f-4de1-8e56-3c490911f9a3" alt="idealista-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/idealista-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/idealista-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/idealista-api.svg)](LICENSE)
